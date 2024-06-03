@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c08c1b3ac19fb99a1cf1aaf172915d35fd49d4eaaf94fbb9f1fe25e8fb4773eb
-size 790
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dihvoj5yooyae"
+path="res://.godot/imported/Candle.png-fd084e408f8152913afd65488350f6b5.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/Pixel Art Icon Pack - RPG/Misc/Candle.png"
+dest_files=["res://.godot/imported/Candle.png-fd084e408f8152913afd65488350f6b5.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7791e07de49f7a92f2d0d5b5466d7ee443c1d8f0701aa0c0ff2c7f495fa92c1b
-size 802
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bf4n74l5e4rvy"
+path="res://.godot/imported/Silver Key.png-d9d693ce6c23a619a43fd1122800f5a8.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/Pixel Art Icon Pack - RPG/Misc/Silver Key.png"
+dest_files=["res://.godot/imported/Silver Key.png-d9d693ce6c23a619a43fd1122800f5a8.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

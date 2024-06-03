@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f991d07d4950c8c9e5c514f41dc8aa9952dd6e013378f6fa6f46eb63b6871f29
-size 790
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bigmi4lum7fes"
+path="res://.godot/imported/Bow.png-39c75c71cb83dcc08de3acf1f7dfabe5.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/Pixel Art Icon Pack - RPG/Weapon & Tool/Bow.png"
+dest_files=["res://.godot/imported/Bow.png-39c75c71cb83dcc08de3acf1f7dfabe5.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
