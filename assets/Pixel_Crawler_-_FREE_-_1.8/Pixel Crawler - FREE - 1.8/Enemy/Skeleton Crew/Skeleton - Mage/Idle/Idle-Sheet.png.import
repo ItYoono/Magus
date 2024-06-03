@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70211fbf7a9c8ecc696a7976d95179f6cf6a41f1b5e833b5ae5d0e9d356de84e
-size 866
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://x5f6eeb4o2xm"
+path="res://.godot/imported/Idle-Sheet.png-89d1c63bf961cab7da29737b77c8af8b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/Pixel_Crawler_-_FREE_-_1.8/Pixel Crawler - FREE - 1.8/Enemy/Skeleton Crew/Skeleton - Mage/Idle/Idle-Sheet.png"
+dest_files=["res://.godot/imported/Idle-Sheet.png-89d1c63bf961cab7da29737b77c8af8b.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
